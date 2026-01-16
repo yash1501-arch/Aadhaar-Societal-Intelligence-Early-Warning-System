@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aadhaar Societal Intelligence & Early-Warning System
 
 A Streamlit dashboard that analyzes Aadhaar demographic update data to surface migration signals, district stress scores, and policy recommendations.
@@ -182,4 +181,4 @@ If any file is missing the app will raise a `FileNotFoundError` — ensure the `
 ---
 
 UIDAI Hackathon 2026 — Dashboard
->>>>>>> 825d192ee9dc8ff5db09dc33fc2b47a479077e75
+825d192ee9dc8ff5db09dc33fc2b47a479077e75
